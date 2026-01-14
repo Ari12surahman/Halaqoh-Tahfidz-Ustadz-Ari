@@ -8,15 +8,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://pp-alam-tahfidz-hamalatul-quran.vercel.app/Hamalat.jpeg",
+      "src": "https://halaqoh-tahfidz-ustadz-ari.vercel.app/Sujari.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://pp-alam-tahfidz-hamalatul-quran.vercel.app/Hamalat.jpeg",
+      "src": "https://halaqoh-tahfidz-ustadz-ari.vercel.app/Sujari.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     }
   ]
